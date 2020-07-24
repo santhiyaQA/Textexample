@@ -1,3 +1,4 @@
 Navigate to Gmail page 
 Login the gamil with proper crdentials
 Open the inbox and view message
+open the sent items and view
